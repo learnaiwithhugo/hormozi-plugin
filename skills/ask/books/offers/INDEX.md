@@ -57,7 +57,7 @@ Full text is not included in this plugin (copyright). If the user owns the book 
 The ones worth sending unprompted when they're the fastest explanation:
 | Page | What it is |
 |---|---|
-| **p55** | **The Value Equation.** The most important image in the book |
+| **p76** | **The Value Equation.** The most important image in the book (introduced on p55, redrawn on p76) |
 | p74 | The five steps of building a Grand Slam Offer |
 | p48 | Virtuous vs Vicious Cycle of Price |
 | p45 | Price to Value Discrepancy and the point of cancellation |

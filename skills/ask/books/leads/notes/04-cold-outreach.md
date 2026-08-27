@@ -70,7 +70,7 @@ The precise standard (p115): *"Give away something for free people would normall
 ## Problem 3: volume (p115-119)
 Three levers.
 
-### a) Automate delivery (figures p115, p116)
+### a) Automate delivery (figure p116)
 **Manual** = a person spends time conveying the message each time (live call, personal voice memo, handwritten letter).
 **Automated** = record once, send to everyone (pre-recorded voice memo, templated email or text, pre-recorded video).
 

@@ -7,7 +7,7 @@ figures: p76, p64, p66
 
 # The Value Equation
 
-**Figure p55 is the single most important image in the book. Send it when explaining this.**
+**The value equation drawing is the single most important image in the book. Send `figures/p76.jpg` (the same drawing, redrawn on p76) when explaining this.**
 
 ```
         Dream Outcome  x  Perceived Likelihood of Achievement

@@ -69,7 +69,7 @@ So the offer only works if you have an upsell ready to absorb the winnings. That
 
 ---
 
-## 2. Giveaways (p31-38, figures p31, p36)
+## 2. Giveaways (p31-38, figure p31)
 **Structure:** advertise a chance to win a big prize in exchange for contact details. Announce one grand prize winner publicly. Then privately offer **everyone else** the same thing at a discount.
 
 The six steps (p33): pick a Grand Prize, pick your promotional offer, ask for contact information and eligibility, pick the qualifying actions, put it on a deadline, announce the winner and contact everyone else.

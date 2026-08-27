@@ -19,7 +19,7 @@ In a local market you can reach 1,000 people for about $20, so 200,000 people co
 
 **We are not changing the offer. We are only changing the wrapping paper.** (figure p139: "Same bundle, different wrapper")
 
-## The M-A-G-I-C formula (p138-142, figures p138 and p139)
+## The M-A-G-I-C formula (p138-142, figure p139)
 | Letter | Component | What it does |
 |---|---|---|
 | **M** | **Magnet** - make a magnetic "reason why" | Tells people the reason you're running this promotion |

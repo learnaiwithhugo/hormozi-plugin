@@ -67,7 +67,7 @@ Worked example (p31, highlighted): helping homeowners sell their homes is a **br
 
 3 types x 4 delivery methods = **up to twelve lead magnets for a single narrow problem.** Make as many versions as you can and rotate them. Keeps advertising fresh and low effort, and you find out which wins. (p35)
 
-## Step 4: test the name (p35-39, figures p35, p36, p37, p38)
+## Step 4: test the name (p35-39, figure p35)
 Ogilvy: "When you have written your headline, you have spent 80 cents of your (advertising) dollar." Five times more people read the headline than anything else. (p35)
 
 > "improving the headline, name, and display of your lead magnet can 2x, 3x, or 10x your engagement." (p36)
