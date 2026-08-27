@@ -1,0 +1,4 @@
+.DS_Store
+.cropwork/
+skills/hormozi/books/*/source/*
+!skills/hormozi/books/*/source/README.md

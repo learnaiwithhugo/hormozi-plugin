@@ -1,0 +1,14 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "hugo-manning",
+  "description": "Plugins by Hugo Manning (Learn AI with Hugo).",
+  "owner": { "name": "Hugo Manning", "url": "https://learnaiwithhugo.com" },
+  "plugins": [
+    {
+      "name": "hormozi",
+      "description": "Alex Hormozi as a business coach: offers, pricing, guarantees, lead magnets, funnels and money models, with page citations from his three $100M books.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
