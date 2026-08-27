@@ -20,16 +20,16 @@ In Claude Code:
 Then in any project:
 
 ```
-/hormozi what should I charge for a 14-day done-for-you build?
+/hormozi:ask what should I charge for a 14-day done-for-you build?
 ```
 
-It only fires when you ask for it: `/hormozi`, "ask Alex", "ask Hormozi", "what would
+It only fires when you ask for it: `/hormozi:ask`, "ask Alex", "ask Hormozi", "what would
 Hormozi say". It won't hijack normal business questions.
 
 ## What's inside
 
 ```
-skills/hormozi/
+skills/ask/
   SKILL.md                 who Alex is, how he answers, where to look
   books/
     offers/                $100M Offers (2021)

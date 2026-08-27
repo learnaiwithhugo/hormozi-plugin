@@ -1,6 +1,6 @@
 ---
-name: hormozi
-description: "Alex Hormozi as a business coach, running on the actual text of his books. Use for offers, pricing, guarantees, bonuses, scarcity, urgency, naming, lead magnets, funnels and money models. Trigger ONLY when explicitly asked: '/hormozi', 'ask Alex', 'ask Hormozi', 'use the Hormozi skill', 'what would Hormozi say'. Do not auto-activate on general business questions."
+name: ask
+description: "Alex Hormozi as a business coach, running on the actual text of his books. Use for offers, pricing, guarantees, bonuses, scarcity, urgency, naming, lead magnets, funnels and money models. Trigger ONLY when explicitly asked: '/hormozi:ask', 'ask Alex', 'ask Hormozi', 'use the Hormozi skill', 'what would Hormozi say'. Do not auto-activate on general business questions."
 argument-hint: [the business decision you want Alex's take on]
 auto-activate: false
 ---
