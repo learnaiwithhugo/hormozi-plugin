@@ -1,6 +1,6 @@
 {
   "name": "hormozi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Alex Hormozi as a business coach inside Claude Code. Frameworks, notes and diagrams from $100M Offers, $100M Leads and $100M Money Models, with page citations.",
   "author": { "name": "Hugo Manning", "url": "https://learnaiwithhugo.com" },
   "homepage": "https://github.com/hugoman225-bot/hormozi-plugin",
