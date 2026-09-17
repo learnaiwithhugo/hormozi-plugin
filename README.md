@@ -13,7 +13,7 @@ or Acquisition.com.
 In Claude Code:
 
 ```
-/plugin marketplace add hugoman225-bot/hormozi-plugin
+/plugin marketplace add learnaiwithhugo/hormozi-plugin
 /plugin install hormozi@hugo-manning
 ```
 
